@@ -36,7 +36,7 @@ class ViewController: UIViewController {
         
         let bill = Double(billField.text!) ?? 0 //bill is a variable that will not change later on that is why is called "let"
         let tip = bill * tipPercentages[tipControl.selectedSegmentIndex]
-        let total = bill * tip
+        let total = bill + tip
         tipLabel.text = String(format: "$%.2f",tip) //anything inside the paratheses that is a variable change it to whatever it's value is
         totalLabel.text = String(format: "$%.2f",total)
     }
