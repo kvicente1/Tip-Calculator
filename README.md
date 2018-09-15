@@ -1,7 +1,5 @@
-<<<<<<< HEAD
+
 # Pre-work - *Tip Calculator*
-=======
->>>>>>> a9863a7aca8a6f6e1de0cb8f62ac42fa713bc116
 
 **Tip Calculator** is a tip calculator application for iOS.
 
@@ -13,11 +11,7 @@ Time spent: **4** hours spent in total
 
 The following **required** functionality is complete:
 
-<<<<<<< HEAD
 * [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-=======
-* [ x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
->>>>>>> a9863a7aca8a6f6e1de0cb8f62ac42fa713bc116
 
 The following **optional** features are implemented:
 * [ ] Settings page to change the default tip percentage.
@@ -34,11 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<<<<<<< HEAD
 <img src='[img]https://i.imgur.com/rXzALPQ.gif[/img]' title='Tip calculor' width='' alt='Video Walkthrough' />
-=======
-<img src='https://i.imgur.com/rXzALPQ.gif' title='Tip calculor' width='' alt='Video Walkthrough' />
->>>>>>> a9863a7aca8a6f6e1de0cb8f62ac42fa713bc116
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
